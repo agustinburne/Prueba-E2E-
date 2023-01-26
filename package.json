@@ -1,0 +1,15 @@
+{
+  "name": "demo_cypress",
+  "version": "1.0.0",
+  "description": "Proyecto de Pruebas-Practica cypress",
+  "main": "index.js",
+  "scripts": {
+    "tests": "cypress open",
+    "tests1": ""
+  },
+  "author": "Burne,Agustin",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  }
+}
